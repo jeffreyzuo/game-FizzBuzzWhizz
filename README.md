@@ -18,7 +18,7 @@ FizzBuzzWhizz
 输入
 3,5,7
 输出（片段）
-
+a1
 1
 2
 Fizz
